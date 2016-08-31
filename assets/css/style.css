@@ -1,0 +1,41 @@
+
+body {
+	background: url("../images/thebeatles_@.jpg");
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	color: black;
+}
+
+
+
+
+#test{
+ border:#000 1px solid; padding:10px 40px 40px 40px;
+ display: center;
+ margin-left: 400px;
+ margin-right: 400px;
+ margin-top: 200px;
+ background-color:  #f1f0d5;
+
+ }
+
+#quiz-time-left{
+	font-style: font-weight: bold;
+	
+	  color: black;
+  font-size: 25px;
+  font-style: normal;
+  font-variant: normal;
+  margin-left:  200px;
+ 
+ 
+}
+
+#test_status{
+
+	margin-top: 200px;
+	margin-left: 300px;
+	margin-top: 200px;
+
+}
+
+
